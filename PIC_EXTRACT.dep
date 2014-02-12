@@ -1,0 +1,62 @@
+# Microsoft Developer Studio Generated Dependency File, included by PIC_EXTRACT.mak
+
+.\File.cpp : \
+	".\File.h"\
+	
+
+.\FileTidy.cpp : \
+	".\buffio.h"\
+	".\File.h"\
+	".\FileTidy.h"\
+	".\platform.h"\
+	".\tidy.h"\
+	".\tidyenum.h"\
+	
+
+.\FileTinyXml.cpp : \
+	".\File.h"\
+	".\FileTidy.h"\
+	".\FileTinyXml.h"\
+	".\tinyxml.h"\
+	"d:\program files\vc98\include\basetsd.h"\
+	"d:\program files\vc98\include\stl.h"\
+	
+
+.\main.cpp : \
+	".\File.h"\
+	".\FileTidy.h"\
+	".\FileTinyXml.h"\
+	".\tinyxml.h"\
+	".\TitleExtract.h"\
+	"d:\program files\vc98\include\basetsd.h"\
+	"d:\program files\vc98\include\stl.h"\
+	
+
+.\tinystr.cpp : \
+	".\tinystr.h"\
+	
+
+.\tinyxml.cpp : \
+	".\tinyxml.h"\
+	"d:\program files\vc98\include\basetsd.h"\
+	
+
+.\tinyxmlerror.cpp : \
+	".\tinyxml.h"\
+	"d:\program files\vc98\include\basetsd.h"\
+	
+
+.\tinyxmlparser.cpp : \
+	".\tinyxml.h"\
+	"d:\program files\vc98\include\basetsd.h"\
+	
+
+.\TitleExtract.cpp : \
+	".\File.h"\
+	".\FileTidy.h"\
+	".\FileTinyXml.h"\
+	".\tinyxml.h"\
+	".\TitleExtract.h"\
+	"d:\program files\vc98\include\basetsd.h"\
+	"d:\program files\vc98\include\stl.h"\
+	
